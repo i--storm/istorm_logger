@@ -19,8 +19,8 @@ Logger.log(...messages)
 ```
 
 ## Examples
-![console](https://imge.to/i/ZoWbk)
-![logfile](https://imge.to/i/Zoeis)
 
+[![console](https://c.imge.to/2019/07/25/ZoWbk.png)](https://imge.to/i/ZoWbk)
 
+[![logfile](https://a.imge.to/2019/07/25/Zoeis.png)](https://imge.to/i/Zoeis)
 
